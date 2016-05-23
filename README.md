@@ -64,7 +64,7 @@ Or you may call `lock.logout();` if you want to log the user out of the social p
 
 ## Run
 
-Run Meteor with the following command: `meteor --settings "settings.json"`
+Run Meteor with the following command: `meteor --settings settings.json`
 
 ## Accessing User Details
 
