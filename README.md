@@ -62,6 +62,10 @@ Any documented combination is valid.
 To log out, you can just call `Meteor.logout();` if you just want to log the user out of your app.
 Or you may call `lock.logout();` if you want to log the user out of the social provider, for instance, but this will redirect the user outside your app to the social provider log out site.
 
+## Run
+
+Run Meteor with the following command: `meteor --settings "settings.json"`
+
 ## Accessing User Details
 
 To show any of the user details after logging in, you can use the `currentUser` helper in any of your Handlebar templates.
