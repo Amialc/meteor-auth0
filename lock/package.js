@@ -9,7 +9,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "auth0-lock": "10.0.0-rc.2",
+    "auth0-lock": "10.0.0",
     "events"    : "1.1.1",
     "util"      : "0.10.3"
 });
